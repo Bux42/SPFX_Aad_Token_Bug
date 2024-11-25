@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-aad-token-bug-client-side-solution",
+    "id": "39cf6203-f04e-4dc2-8400-4c73a0a0ed73",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.20.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfx-aad-token-bug description"
+      },
+      "longDescription": {
+        "default": "spfx-aad-token-bug description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-aad-token-bug Feature",
+        "description": "The feature that activates elements of the spfx-aad-token-bug solution.",
+        "id": "9895bf45-a2c3-462b-892a-0cee1b49139d",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-aad-token-bug.sppkg"
+  }
+}
